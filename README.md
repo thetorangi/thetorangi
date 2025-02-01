@@ -1,8 +1,12 @@
-# 💫 About Me:
-I'm currently an MCA student at VJTI.<br>
-I'm learning Web Development with Django.<br>
-I'm also learning DSA in Python.
+# 👋 Hello! KARMA here 
 
+🎓 I'm currently pursuing MCA at VJTI.
+💻 I'm passionate about Web Development and currently learning Django.
+⚡ I'm also strengthening my DSA skills in Python.
+
+🚀 Enthusiastic about building scalable applications, writing efficient code, and exploring new technologies.
+
+📌 Always eager to learn and collaborate on exciting projects!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shrinath-torangi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:torangisb@gmail.com) 
