@@ -1,8 +1,8 @@
 # 👋 Hello! KARMA here 
 
-🎓 I'm currently pursuing MCA at VJTI.
-💻 I'm passionate about Web Development and currently learning Django.
-⚡ I'm also strengthening my DSA skills in Python.
+🎓 I'm currently pursuing MCA at VJTI.<br>
+💻 I'm passionate about Web Development and currently learning Django.<br>
+⚡ I'm also strengthening my DSA skills in Python.<br>
 
 🚀 Enthusiastic about building scalable applications, writing efficient code, and exploring new technologies.
 
