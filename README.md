@@ -1,10 +1,7 @@
 # 👋 Hello! KARMA here 
 
-🎓 Pursuing MCA at VJTI with a strong interest in Web Development and Data Structures & Algorithms. Currently focused on Django for backend development and enhancing problem-solving skills using Python.
-
-🚀 Passionate about building scalable applications, optimizing code efficiency, and exploring new technologies. Always eager to learn and collaborate on innovative projects.
-
-📌 Open to contributions, discussions, and new opportunities!
+🎓 Pursuing MCA @ VJTI with rich interest in web development and Data Structure and Algorithms. 
+Presently learning Django for back-end development and improving problem-solving skills with Python.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shrinath-torangi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:torangisb@gmail.com) 
