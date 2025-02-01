@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm Currently MCA Student in VJTI <br>I'm Learning Web Development (Django)<br>I'm Learning DSA (Python)
+I'm currently an MCA student at VJTI.<br>
+I'm learning Web Development with Django.<br>
+I'm also learning DSA in Python.
 
 
 ## 🌐 Socials:
