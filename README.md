@@ -1,8 +1,8 @@
 # 👋 Hello! KARMA here 
 
 🎓 Pursuing MCA @ VJTI with rich interest in Data Engineering and Data Structure and Algorithms. 
-Presently Learning Data Engineering, focusing on tools like Apache Kafka building robust data pipelines and desiging scalable Data Warehouses.
-Hands on Django Rest Framework for back-end development and improving problem-solving skills with Python.
+Presently Learning Data Engineering, focusing on tools like Apache Kafka building robust data pipelines and desiging scalable Data Warehouses.  
+Hands on Django Rest Framework for back-end development and improving problem-solving skills with Python.  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shrinath-torangi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:torangisb@gmail.com) 
