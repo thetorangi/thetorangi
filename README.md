@@ -4,6 +4,8 @@
 Presently Learning Data Engineering, focusing on tools like Apache Kafka building robust data pipelines and desiging scalable Data Warehouses.  \
 Hands on Django Rest Framework for back-end development and improving problem-solving skills with Python.  
 
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=thetorangi)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shrinath-torangi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:torangisb@gmail.com) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/karma-here/)
